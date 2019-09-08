@@ -1,0 +1,2 @@
+# ANNImplementataion_Keras
+A simple Implementation of Artificial Neural Networks in Keras, We used a case study of an online store which sells audiobooks. They are looking for the model which is able to predict that out customers that have bought the books previously which customers will buy again and which of them will not. So they spend there add budget to only those customers which have chances to buy again.
